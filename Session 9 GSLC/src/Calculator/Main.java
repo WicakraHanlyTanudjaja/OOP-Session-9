@@ -3,6 +3,9 @@ package Calculator;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// This code is called 'mini calculator'
+// the purpose for this code is for easily get the result for any applications from 2 numbers
+
 public class Main {
 
 	Scanner scan = new Scanner(System.in);
