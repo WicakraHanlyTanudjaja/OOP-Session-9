@@ -1,5 +1,6 @@
 package Calculator;
 
+// Untuk menampilkan hasil pangkat pada bilangan a dan bilangan b
 public class Rank extends Calculate implements CalculateInterface {
 
 	public Rank(double a, double b) {
@@ -7,6 +8,7 @@ public class Rank extends Calculate implements CalculateInterface {
 		// TODO Auto-generated constructor stub
 	}
 
+	// Untuk menunjukkan hasil dari a pangkat b
 	@Override
 	public double calculate() {
 		// TODO Auto-generated method stub
