@@ -1,5 +1,6 @@
 package Calculator;
 
+// Memberikan constructor yang mengambil 2 nilai int
 public abstract class Calculate {
 	private double a, b;
 
