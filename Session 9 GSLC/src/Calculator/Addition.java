@@ -1,5 +1,6 @@
 package Calculator;
 
+// Untuk menampilkan hasil penjumlahan
 public class Addition extends Calculate {
 
 	public Addition(double a, double b) {
